@@ -18,4 +18,4 @@ Quick sort also uses a divide-and-conquer approach. It selects a pivot element f
 Heap Sort:
 
 Heap sort is based on the heap data structure. It first builds a max-heap (for ascending order) or min-heap (for descending order), then repeatedly extracts the root of the heap (which is the maximum or minimum element), and finally reconstructs the heap.
-These algorithms have different time complexities and are suitable for different scenarios. The choice of a sorting algorithm depends on factors such as the size of the dataset, whether the data is mostly sorted or not, and the memory requirements.
+These algorithms have different time complexities and are suitable for different scenarios. The choice of a sorting algorithm depends on factors such as the size of the dataset, whether the data is mostly sorted or not, and the memory requirements. i hope you understand?
